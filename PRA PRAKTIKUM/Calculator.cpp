@@ -1,3 +1,5 @@
+// Fionita Lady Chavella	(2100018506)
+// Syafa Trisya Hernanda	(2100018507)
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
